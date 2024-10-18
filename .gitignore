@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/ERP/.vs/ERP
+/ERP/API/bin/Debug/net5.0
+/ERP/API/bin/Release/net5.0
+/ERP/API/obj
+/ERP/Infrastructure/obj
+/ERP/Infrastructure/bin
+/ERP/Models/obj
+/ERP/Models/bin
+/ERP/Persistance/obj
+/ERP/Persistance/bin
+/ERP/API/bin/Debug/net6.0
